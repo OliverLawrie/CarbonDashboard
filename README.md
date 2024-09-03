@@ -5,5 +5,5 @@ Serve this dashboard locally using the following command:
 
 ```bash
 panel serve CarbonDashboard.ipynb
-
+```
 :)
